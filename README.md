@@ -6,6 +6,10 @@ EFProject ile lokasyon uygulamasını ekleyerek projeyi tamamladık. Bu süreçt
 Son olarak yapılan FrmStatistik uygulamasının ekran görüntüsü aşağıda yer almaktadır.
 
 
+![istatistikVerisi](https://github.com/user-attachments/assets/6eef2033-068c-4be7-8152-e14babedb957)
+
+
+
 
 
 
